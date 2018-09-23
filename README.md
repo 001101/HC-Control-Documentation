@@ -1,8 +1,8 @@
 ---
-description: Discord Bot "Peke"
+description: Discord Bot "HC Control"
 ---
 
-# Discord Bot
+# HC Control
 
 
 

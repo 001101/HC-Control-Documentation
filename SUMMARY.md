@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Discord Bot](README.md)
+* [HC Control](README.md)
 * [Changes](changelog.md)
 * [API Doc](api.md)
 * [Install](install.md)
